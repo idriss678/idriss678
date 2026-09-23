@@ -1,6 +1,4 @@
-### Salut, moi c'est Idriss 👋
-
-Étudiant en 1ère année à **Epitech**, orienté Data / IA et cybersécurité.
+Idriss étudiant en 1ère année à Epitech, orienté Data / IA et cybersécurité.
 Recherche un stage de 4 mois.
 
-🔗 **Portfolio :** https://idriss678.github.io/portfolio/
+ Portfolio : https://idriss678.github.io/portfolio/
